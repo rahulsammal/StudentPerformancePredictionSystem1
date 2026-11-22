@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
